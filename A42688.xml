@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unio dissidentium heir apparent and presumptive made one.</title>
+            <author>Gibbon, John, 1629-1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42688</idno>
+            <idno type="STC">Wing G653A</idno>
+            <idno type="STC">ESTC R26765</idno>
+            <idno type="EEBO-CITATION">09533944</idno>
+            <idno type="OCLC">ocm 09533944</idno>
+            <idno type="VID">43543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43543)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1331:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unio dissidentium heir apparent and presumptive made one.</title>
+                  <author>Gibbon, John, 1629-1718.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: J.G., B.M.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43543:1"/>
+            <pb n="1" facs="tcp:43543:1"/>
+            <head>
+               <hi>UNIO DISSIDENTIUM</hi> Heir Apparent and Preſumptive made one.</head>
+            <p>
+               <hi>HORACE</hi> in his <hi>Ars Poetica</hi> ſays, <hi>Rem bene proviſam, &amp;c.</hi> Fit Words neceſſa<g ref="char:EOLhyphen"/>rily follow a Subject well Laid and Founded: So I on the contrary Preſume, <hi>
+                  <g ref="char:V">Ʋ</g>bi mens male diſpoſita eſt,</hi> where <hi>ill will</hi> hath its deſign, agreeable Expreſ<g ref="char:EOLhyphen"/>ſions are never lacking, to Vent its Meaning and Malice.</p>
+            <p>
+               <hi>Apparent</hi> (till 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>73.) hath ever been, among us <hi>Engliſh</hi> Men, a fit Par<g ref="char:EOLhyphen"/>ticiple (or Word Adjective) to Expreſs one, between whom and the Succe<g ref="char:EOLhyphen"/>ſſion to a preſent Poſſeſſours Eſtate, no third Perſon Intervenes or Appears.</p>
+            <p>Such was and is, his R. Highneſs, [Suffering no Ecclipſe, in his Modeſt Fair and Juſt Pretenſi<g ref="char:EOLhyphen"/>ons, till the time before recited, and then <hi>Natus eſt Haeres Praeſumendus</hi> (or <hi>Praeſumptivus</hi> as <hi>French Latiniſts</hi> would Term it,) <hi>et denatus eſt Apparens, inter Hominum Genus Novum: <hi>Preſumtive</hi>
+               </hi> comes into the World, and <hi>Apparent</hi> dies among a new Sect, <hi>&amp;c.</hi>
+            </p>
+            <p>No Man can doubt this, to be an Artifice (we live in the days wherein they abound) to Dimi<g ref="char:EOLhyphen"/>niſh among the Vulgar, the Opinion of the Validity of the foreſaid Pretentions: And it hath gone ſo very far, that the Plow Man in the Country, (as well as the Pitiful Vicar,) that Groans under the Detention of his Tithes, and is to be Commiſerated,) Argue it and Diſtinguiſh by it, and to ſay the Truth, one Underſtands it as well as the other.</p>
+            <p>Nay the more refin'd Wits: (and Men of great Learning and Parts have the Expreſſion in Ho<g ref="char:EOLhyphen"/>nour and Eſteem. As Mr. <hi>Smith</hi> in his late Narrative. <hi>p.</hi> 13. (26 <hi>Bis.</hi> 27, <hi>&amp;c.</hi>
+            </p>
+            <p>Every Nation have Proper and Peculiar Idioms and Expreſſions, which by a long uſe, are become their own, and are not ſo proper for other Countries and Concernments.</p>
+            <p>Theſe be the Diets of <hi>Germany,</hi> (the Parliaments of <hi>England,</hi> (the General Eſtates of the <hi>Netherlands,</hi> (the Senate or Great Council of <hi>Venice,</hi> (and the Cardinalate or Conclave of <hi>Rome<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> (theſe two are Terms of Government and Council.</p>
+            <p>But Secondly as to Expreſſions of meanet conſequence and circumſtances, (in vulgar occaſi<g ref="char:EOLhyphen"/>ons and occurrences.</p>
+            <p>The <hi>Scots</hi> Term being a <hi>Sleep, Quiet:</hi> The <hi>Iriſh, Shall</hi> for <hi>Will:</hi> as, Such a man ſhall die, meaning that he cannot hold out long, is paſt recovery or at leaſt in exceeding danger.</p>
+            <p>We <hi>Engliſh,</hi> underſtand by knocking on the Head, (no Bugbear expreſſion if genuinely conſidered: (nor of more danger than <hi>John Hopkins</hi>'s fearful Imprecation, <hi>Pſal.</hi> 74. Para<g ref="char:EOLhyphen"/>graph the laſt: (I ſay we underſtand by it down right murdering and killng.</p>
+            <p>So the <hi>Latines</hi> have their <hi>e medio tollere,</hi> juſt of the very ſame ſtamp: (again inſtead of de<g ref="char:EOLhyphen"/>manding what hour it is, we ask what's a clock;) <hi>Significans pro Significato.</hi>
+            </p>
+            <p>Learned <hi>Selden</hi> thought it no Soleciſm, to quote the old Ballade of the Tanner of <hi>Tamworth,</hi> (recited by Mr. <hi>Aſhmole</hi> in his <hi>Garter, p.</hi> 225. Why may not I quote the merry Legend of the Frier and the Boy, to bring in a very common and uſual <hi>Angliſciſm, p.</hi> 1.</p>
+            <q>
+               <l>By the firſt Wife a Son he had,</l>
+               <l>Which was a Pretty worthy Lad,</l>
+               <l>A good unhappy Boy.</l>
+            </q>
+            <p>This <hi>
+                  <g ref="char:V">Ʋ</g>nhappy</hi> tranſlated in the ſenſe of <hi>
+                  <g ref="char:V">Ʋ</g>nfortunate,</hi> quite marrs the intended ſenſe; (which ſiignifies waggiſh and full of Roguiſh Tricks.</p>
+            <pb n="2" facs="tcp:43543:2"/>
+            <p>We ſay, the Wing of a Rabbet, (which notwithſtanding is no flying Animal, but a four footed Creature; So after the ſame manner, the <hi>Scots</hi> have the fore Leg of a Capon.</p>
+            <p>The <hi>Dutch</hi> expreſs I drink to you, <hi>uk brenght,</hi> (which is no other than I bring to you, or make you the Offer of drinking.</p>
+            <p>They ſay <hi>Gen Schip ghebleven, is</hi> (a Ship is ſtaid), meaning it is caſt away and loſt.</p>
+            <p>The <hi>French</hi> ſay <hi>prendre ſur, (gainer Sur,</hi> (take a Town upon, gain a victory upon; where as we ſay take a Town from, gain or get a victory, over or againſt, ſuch a King or Prince: they ſay <hi>l' heure a ſonnee,</hi> the Hour has ſtrook, inſtead of the Clock, <hi>(Significatum pro Significante)</hi>
+            </p>
+            <p>
+               <hi>To come to the point,</hi> then Preſumptive Heir is a <hi>Galliſciſm,</hi> a <hi>French</hi> Term, an Idioma<g ref="char:EOLhyphen"/>tical Expreſſion of that Nation, borrowed from the Latine word <hi>Praeſumo,</hi> (in its Derivative) And let us ſee what <hi>Hottoman</hi> ſaies of it in the Subſtantive, <hi>Preſumptio apud juridicos dicitur, ex<g ref="char:EOLhyphen"/>iſtimatio, quae ex veriſſimilibus argumentis et conjecturis ducitur;</hi> a judgment, eſteem or opinion of things, which is drawn from credible and veritable arguments and conjectures; (ſee <hi>Thomas, Thomaſius</hi> in the word: The <hi>French</hi> uſe it to expreſs a next Heir, (as the two Brethren St <hi>Marthes</hi> all along in their Genealogick Hiſtory of <hi>France.</hi>
+            </p>
+            <p>
+               <hi>P.</hi> 719. <hi>Iſabel de Bourbon fut accordeè avec le Prince Olaus fils uni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> et preſomptif Heritier de Danemerc &amp;c.</hi> She was affianced with Prince <hi>Olaus</hi> only Son and preſumptive Heir of <hi>Denmark.</hi>
+            </p>
+            <p>
+               <hi>P.</hi> 873. <hi>Tom.</hi> 2d. <hi>(Jean de Albret fille uni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> et preſumptive Heritiere du Roy de Navarre,</hi> only Daughter and Preſumptive Heir to the King of <hi>Navarre.</hi>
+            </p>
+            <p>
+               <hi>P.</hi> 1052. Speaking of <hi>Jean</hi> Wife of K. <hi>Phillip</hi> the Tall; He calls her Preſumptive Heir of <hi>Artois.</hi>
+            </p>
+            <p>
+               <hi>P.</hi> 1331. twice) I will mention both Circumſtances.</p>
+            <p n="1">1ſt. The Agreement between <hi>Anne</hi> of <hi>Britain,</hi> and <hi>Charles</hi> the 8 of <hi>France</hi> afterward her Husband, <hi>La Princeſſe ne convoleroit en autres nopces; fors avec le Roy futur (Si il plaift et luy faire ce peut) et autre Heretier prochain et prefomptif de la couronne,</hi> ſhe not to contract 2d. Marriage ex<g ref="char:EOLhyphen"/>cept with the future King, (if it ſo pleaſed him and he could do it (and other next Heir and Preſumptive of the Crown.</p>
+            <p n="1">2dly. The Prince of <hi>Orange</hi> is termed there, the next Kinſman and preſumptive Heir of the ſaid Princeſs.</p>
+            <p>So again <hi>p.</hi> 1528. and 1537. (The firſt of which ſaies <hi>Edw.</hi> K. of <hi>Portugal,</hi> was the firſt who or<g ref="char:EOLhyphen"/>dained <hi>Que le fils aiſnee, preſumptif Heritier de la Couronne, &amp;c.</hi> That the Eldeſt Son Preſumptive Heir of the Crown, ſhould carry the Title of Prince of <hi>Portugal,</hi> being before only ſtiled Infant,</p>
+            <p>The latter <hi>Pag.</hi> ſaies, <hi>John</hi> of <hi>Portugal</hi> was joyned in Marriage with <hi>Charlot de Luſignan</hi>) Daughter of <hi>John</hi> the 2d. of the name, King of <hi>Cypreſs,</hi> (and of his Queen <hi>Helene Paleologue,</hi> adds, ſhe was preſumptive Heireſs of the Kingdoms of <hi>Cypreſs</hi> and <hi>Jeruſalem.</hi>
+            </p>
+            <p>But finally the Biſhop of <hi>Rhodes,</hi>) who ſo elegantly wrote the Life of <hi>H.</hi> 4. of <hi>France,</hi> and is ſo well tranſlated by Mr. <hi>Dancer,</hi> ſtiles the ſaid King no other way than Preſumptive Heir, (although already declared Succeſſor by <hi>H.</hi> 3. and ſo taken by all, (except thoſe of the Ligue. who carried on a long war againſt him, and whom at length he uttterly ruined.</p>
+            <q>Nam ſemper eſt praevalitura Veritas.</q>
+            <p>Pray mark all theſe Expreſſions.</p>
+            <list>
+               <item>*<expan>
+                     <am>
+                        <g ref="char:idagger"/>
+                     </am>
+                     <ex>inverted †</ex>
+                  </expan>* 1ſt. <hi>Olaus,</hi> only Son and preſumptive Heir.</item>
+               <item>2dly. only Daughter and preſumptive Heire, (in <hi>Jean De. Albret.</hi>
+               </item>
+               <item>3dly. In the Caſe of <hi>Anne</hi> of <hi>Britain;</hi> he does not ſay next or preſumptive Heir, but 'tis a Conjunction Copulative, and makes <hi>Next and Preſumptive</hi> all one.</item>
+            </list>
+            <p>And ſo in the Prince of <hi>Orange,</hi> (next Kinſman and preſumptive Heir; (if ſo, what diffe<g ref="char:EOLhyphen"/>rence then from Apparent? (and the <hi>French</hi> they have no other Phraſe for it.</p>
+            <p>*<expan>
+                  <am>
+                     <g ref="char:idagger"/>
+                  </am>
+                  <ex>inverted †</ex>
+               </expan>* But the next of all is ſo clear, that he ſaies Eldeſt Son preſumptive Heir to (a Grama<g ref="char:EOLhyphen"/>tical Appoſition:) and no man did ever deny to an Eldeſt Son the Title of Apparent.</p>
+            <p>It is clear then from theſe two Bretheren eminent for their Learning and Learned Deſcent: (ſee their own Dedication at the end of their work; (as alſo from the Biſhop of <hi>Rhodes</hi> That Heir <hi>Preſumptive</hi> is nothing elſe than <hi>Apparent.</hi>
+            </p>
+            <p>So you ſee (the Authors of this new Term) have made good that of the Poet.</p>
+            <q>Parturiunt montes, eſt natus ridiculus mus.</q>
+            <p>I'le engliſh it,</p>
+            <q>The Little Flie hath rais'd a great deal of duſt,</q>
+            <pb n="3" facs="tcp:43543:2"/>
+            <p>But indeed Reaſon will tell us, (without the Head-ache of <hi>Philoſophical Argumentation</hi>) that that is neareſt the mark or object matter, where nothing at preſent intervenes.</p>
+            <p>Nothing more certain than againſt which at preſent not the leaſt objection; and nothing can be more apparent, than that which nothing appears at preſent to obumbrate and obſcure.</p>
+            <p>I compare then theſe interjected upſtart Expreſſions <hi>of preſumptive and expectant Heir,</hi> to the Moons being in oppoſition under the Eccliptick Line, which indeed darkens the Sun, but he af<g ref="char:EOLhyphen"/>terwards appears more glorious.</p>
+            <p>And indeed, as to the Term of Heir <hi>Expectant,</hi> 'tis worſe than Preſumptive, and hath ſome what more of malice in it; the word importing a looking for with deſire, <hi>(ex ſpe inſtare)</hi> to be inſtant after any thing, with impetuous Hope (making his <hi>R. H.</hi> as it were, <hi>Imaginars Regis Mortem</hi> (a Trick to cauſe Jealouſies and Variances. (and learnt from <hi>Del Rio, and Contzen:</hi> (for 'tis not to be doubted there be ſome Proteſtant Phanatical Polititians, as bad as any <hi>Jeſuit</hi> can be thought to be. <hi>Hudibras</hi> in his 3d. Book plainly deſcribes them, part 3d. <hi>p.</hi> 114</p>
+            <q>
+               <l>'Mong theſe there was a Politician</l>
+               <l>That had more Heads than Beaſts in Viſion.</l>
+            </q>
+            <p>I could wiſh the Propheſy of <hi>Hor.</hi> were accompliſht, <hi>Ars Poetica p.</hi> 3.</p>
+            <q>
+               <lg>
+                  <l>Multa renaſcentur quae jam cecidere, cadent<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </l>
+                  <l>Quae nunc ſunt in honore vocabula ſi volet uſus.</l>
+               </lg>
+               <lg>
+                  <l>Words out of uſe, in uſe ſhall come again;</l>
+                  <l>And words in uſe, no more in uſe remain.</l>
+               </lg>
+            </q>
+            <p>Let Heir Expectant and Preſumptive be no more heard; Let Apparent be in Vogue.</p>
+            <p>
+               <hi>Auguſtus Caeſar</hi> adopts <hi>Tiberius. Joan</hi> the firſt of <hi>Naples,</hi> adopts <hi>Louis</hi> Duke of <hi>Anjou:</hi> so alſo <hi>Joan</hi> the ſecond, adopts the ſame Family: no Friend of <hi>Caeſars,</hi> or of theſe Neopolitane Majeſties, but acknowledg the <hi>Adoptes</hi> for Heirs Apparent.</p>
+            <p>Right of Adoption hath great force in Sacred Writ, as <hi>Rom.</hi> 8.23, <hi>Rom.</hi> 9.4.. <hi>Gal.</hi> 4.5 <hi>Eph.</hi> 1.5. But on the Duke's Side, is ſucceſſive Propinquity and Proximity.</p>
+            <q>
+               <l>Atavis qui Regibus editus,</l>
+               <l>Augustiſſimo Carolo proximus</l>
+            </q>
+            <p>Se the Determination of the Holy Ghoſt (<hi>Deut.</hi> 17.8.9.) <hi>Sans any objection.</hi>
+            </p>
+            <p>Moſes that great Prophet, Penman (nay Prince) who delivered to us that former Law of Succeſſion, ſaies <hi>Gen.</hi> 1 16. <hi>That God made two great Lights, the greater to rule the day, &amp;c.</hi>
+            </p>
+            <p>And our Saviour himſelf (the Light of the world (<hi>John</hi> 8.12. <hi>Tells us his father,</hi>) who is the Father of Righteouſneſs,) cauſes his <hi>Sun,</hi> (the greater of the two Lights afore-men<g ref="char:EOLunhyphen"/>tioned, (<hi>to ariſe on the evil and the good, and ſendeth Rain on the juſt and on the unjuſt, Mat.</hi> 5.45. which in the opinion of all Divines admits, that all manner of men are to expect their Rights and Dues in communicative and diſtributive Juſtice: and I believe that none of theſe new <hi>Sect</hi> of Preſumptiviſts would be willing to looſe any the leaſt Pretention, though but to one hundred Pound <hi>per Annum!</hi> Let them do then as they would be done by, laying aſide all far-fetcht (equivocating) dubious, (malicious Phraſes and Expreſſions, contenting themſelves with thoſe of our own Nation, giving <hi>Caeſars</hi> Relations their due) and ſo become juſt.</p>
+            <p>This new Order of Men, have erred not knowing the Scriptures. <hi>St. Peters</hi> advice is, (1.4.15.) not to be too buſie. They have erred as not being Philoſophers; (not obſerving the <hi>Ethicks</hi>) I mean the morality of Moderation.</p>
+            <p>
+               <hi>Hor. Lib.</hi> 1ſt. concludes his ſecond Epiſtle with.</p>
+            <q>
+               <l>Non tardum opperior nec praecedentibus inſto.</l>
+               <l>I ſtay not for the ſlow; nor others would out-goe.</l>
+            </q>
+            <p>An admirable <hi>Lore</hi> and <hi>Document</hi> for moderation: It may be rendred Proverbially, (ſoft fires make ſweet Mault) a Commoditie we in <hi>England</hi> cannot live without; Let's have a care of
+<pb n="4" facs="tcp:43543:3"/>the making o'nt —<hi>Solomon</hi> teaches us <hi>not to be righteous over much, Eccl.</hi> 7.18. <hi>(as alſo to be wiſe for our ſelves it we pretend to wiſdom Pro.</hi> 9.12. <hi>ver.</hi>
+            </p>
+            <p>It were heartily to be wiſhed an Act of Pacification might paſs, ſuch as that <hi>ſub H.</hi> 3. call'd <hi>Dictum de Kenelworth,</hi> (ſo that no reflection might be made upon forepaſſed Jealouſies, to promote and foment new ones.</p>
+            <p>That the Duke might retire, near his only Royal Brother.</p>
+            <p>The preſent ſeparation, is a matter of ill aſpect and conſequence; the ſacred Scripture de<g ref="char:EOLhyphen"/>clares againſt them which cauſe it, (<hi>Prov.</hi> 6.4. and 19. <hi>ver.</hi> (The Heathen Poet charms wiſe<g ref="char:EOLhyphen"/>ly againſt it. <hi>Ho.</hi> Lib. 1. Ep. 3d</p>
+            <q>
+               <lg>
+                  <l>
+                     <g ref="char:V">Ʋ</g>bicun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>coru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Vivitis, indigni fraternum rumpere foedus.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nworthy are you, where ſo e're you are,</l>
+                  <l>Bonds of Fraternal Love to break that dare.</l>
+               </lg>
+            </q>
+            <p>Moreover that the Kings wants might be ſupplied towards the paiment of his Debts; (a matter much importing his Reputation and Credit.)</p>
+            <p>Old <hi>Fabian</hi> tells us of wonderful monitions and warnings were given to <hi>H.</hi> 2d. but eſpeci<g ref="char:EOLhyphen"/>cially from one Sir <hi>William Cheſtreby,</hi> whoſe advice was Seavenfold.</p>
+            <p>The 6th Clauſe was, that he ſhould take care his Subjects ſhould be ſatisfied, for any thing taken or received from them, for his uſe; and that he ſhould pay his Servants and Souldiers their wages; I ſhall make but ſhort Paraphraſe upon it<g ref="char:punc">▪</g> only obſerve, that ſuch as are averſe to <hi>Aids</hi> and <hi>Subſidies,</hi> (the Ancient Rights of our Kings) are ſuch as are deficient in <hi>Loyalty</hi> and <hi>Charitie.</hi> The firſt as to their Sovereign. The ſecond as to their Fellow Subjects.</p>
+            <p>That again, Preparation might be made for the Defence of the Nation, <hi>La politique Fran<g ref="char:EOLhyphen"/>coiſe. p.</hi> 192. adviſes the <hi>Fr.</hi> King to place the Knights of <hi>Mal<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a</hi> in the Iſle of <hi>Rhee,</hi> (Iſle <hi>de Dieu,</hi> and <hi>Belle</hi> Iſle, to ruine our Trade.</p>
+            <p>Mr. <hi>Smith</hi> in his late <hi>Narrrtive,</hi> (p. 13.) tells us the ſaid great Kings Encouragements and De<g ref="char:EOLhyphen"/>ſigns: and the <hi>Friendly Conference;</hi> (plainly tells us his pretentions upon <hi>England;</hi> and that they are printed and expoſed to publick View and Cenſure.</p>
+            <p>His Medals (lately uttered to the world) demonſtrate the greatneſs of his mind, and the <hi>Nebucadnezar</hi>
+               <g ref="char:punc">▪</g> like Conceit he hath of himſelf.</p>
+            <p>Neither doth his Nativity (publiſhed both in Latine and Engliſh by two ſeveral Aſtrologi<g ref="char:EOLhyphen"/>ans) add any thing but Fewel to his <hi>Martial</hi> Mind apt for great undertakings.</p>
+            <p>But I ſay, could he ſeiſe upon the South, and South-weſt parts of <hi>Ireland,</hi> lying oppoſite to <hi>Britain<g ref="char:punc">▪</g>
+               </hi> he would become Mr. of our Seas; and then farewell Trade and Traffick, under the warm Sun.</p>
+            <q>
+               <l>
+                  <hi>Algenti miſer as Aquiloni vertere prorus.</hi>
+               </l>
+               <l>We muſt Turn our Prow's to the North.</l>
+            </q>
+            <p>
+               <hi>Ireland</hi> hath left Hope and Dependance upon <hi>Spain,</hi> (and have betaken themſelves to <hi>France,</hi>) in every Village of <hi>Connacht,</hi> and the South-weſt of that Kingdom, are ſuch as have been Trained up to <hi>French</hi> Military Diſcipline.</p>
+            <p>And whilſt the Fewds of Papiſtical and Presbyterian, (or Antimonarchical Plots, (for cer<g ref="char:EOLhyphen"/>tainly there is a Party in <hi>England</hi> that aim at a <hi>Hollandſche</hi> Government, (make a noiſe in the world, The <hi>French</hi> Plot, not a Religious one, but Political one; ſuch as <hi>Germany</hi> and the <hi>Ne<g ref="char:EOLhyphen"/>therlands</hi> have felt the effects of. (ſilently gets growth, and they come and take away your Name and Nation.)</p>
+            <q>
+               <l>Inter nos <g ref="char:V">Ʋ</g>nio fiat,</l>
+               <l>Nos inter regnet Pax, dominetur Amor.</l>
+            </q>
+            <closer>
+               <signed>
+                  <list>
+                     <item>I. G.</item>
+                     <item>B. M.</item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:43543:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
